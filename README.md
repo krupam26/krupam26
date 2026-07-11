@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=940&lines=%3E+whoami;INITIALIZING_DEV_PROFILE...;ACCESS_GRANTED+%E2%9C%93;YOUR_NAME+%7C+FULL_STACK_DEVELOPER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=940&lines=%3E+whoami;INITIALIZING_DEV_PROFILE...;ACCESS_GRANTED+%E2%9C%93;Krupa+Mehta+%7C+FULL_STACK_DEVELOPER" alt="Typing SVG" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=YOUR_NAME&fontSize=60&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=%3C%20Full%20Stack%20Developer%20/%20Digital%20Architect%20%3E&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Krupa%20Mehta&fontSize=60&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=%3C%20Full%20Stack%20Developer%20/%20Digital%20Architect%20%3E&descAlignY=55&descSize=18" width="100%"/>
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 ## `> root@dev:~$ cat about_me.txt`
 
 ```yaml
-name: "Your Name"
+name: "Krupa Mehta"
 role: "Full Stack Developer / Reverse Engineer of Ideas"
 location: "The Matrix, Sector 7"
 current_focus: "Building things that shouldn't be possible"
