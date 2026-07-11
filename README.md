@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=940&lines=%3E+whoami;INITIALIZING_DEV_PROFILE...;ACCESS_GRANTED+%E2%9C%93;Krupa+Mehta+%7C+MACHINE_LEARNING" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=940&lines=%3E+whoami;INITIALIZING_DEV_PROFILE...;ACCESS_GRANTED+%E2%9C%93;Krupa+Mehta+%7C+MACHINE LEARNING" alt="Typing SVG" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Krupa%20Mehta&fontSize=60&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Digital%20Architect&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Krupa%20Mehta&fontSize=60&fontColor=00FF9C&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 
 <div align="center">
@@ -83,22 +83,20 @@ fun_fact: "I debug with print statements and I'm not sorry"
 <tr>
 <td width="50%">
 
-### 🔴 [Project_Alpha](https://github.com/krupam26/project-alpha)
+### 🔴 [ET Wealth Navigator](https://github.com/krupam26/ET_Gen_AI)
 ```
-> A cyberpunk-themed dashboard built
-> with real-time data streaming.
+> AI financial assistant.
+
 ```
-`React` `WebSockets` `Redis`
+
 
 </td>
 <td width="50%">
 
-### 🟢 [Project_Nova](https://github.com/krupam26/project-nova)
+### 🟢 [Apple_Replica](https://github.com/krupam26/Apple_threejs_webiste)
 ```
-> An AI-powered automation engine
-> for pipeline orchestration.
+> An immersive Apple-inspired product showcase website built with React, Three.js, and React Three Fiber
 ```
-`Python` `FastAPI` `Docker`
 
 </td>
 </tr>
@@ -115,12 +113,13 @@ fun_fact: "I debug with print statements and I'm not sorry"
 </td>
 <td width="50%">
 
-### 🟣 [Project_Ghost](https://github.com/krupam26/project-ghost)
+### 🟣 [GoViral](https://github.com/kavya-119/GoViral)
 ```
-> Terminal-based OSINT toolkit for
-> security researchers.
+> Go viral on social media platforms
+> Building in process..... 
+
 ```
-`Rust` `CLI` `Security`
+
 
 </td>
 </tr>
@@ -132,8 +131,8 @@ fun_fact: "I debug with print statements and I'm not sorry"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://linkedin.com/in/krupam26)
-[![Mail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/krupa-mehta2602)
+[![Mail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:krupamehta2007@gmail.com)
 
 </div>
 
