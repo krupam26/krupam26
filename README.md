@@ -1,11 +1,12 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=940&lines=%3E+whoami;INITIALIZING_DEV_PROFILE...;ACCESS_GRANTED+%E2%9C%93;Krupa+Mehta+%7C+FULL_STACK_DEVELOPER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=940&lines=%3E+whoami;INITIALIZING_DEV_PROFILE...;ACCESS_GRANTED+%E2%9C%93;Krupa+Mehta+%7C+MACHINE_LEARNING" alt="Typing SVG" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Krupa%20Mehta&fontSize=60&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=%3C%20Full%20Stack%20Developer%20/%20Digital%20Architect%20%3E&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Krupa%20Mehta&fontSize=60&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Digital%20Architect&descAlignY=55&descSize=18" width="100%"/>
+
 
 <div align="center">
 
@@ -23,7 +24,7 @@
 
 ```yaml
 name: "Krupa Mehta"
-role: "Full Stack Developer / Reverse Engineer of Ideas"
+role: "AIML Developer / Reverse Engineer of Ideas"
 location: "The Matrix, Sector 7"
 current_focus: "Building things that shouldn't be possible"
 languages: ["English", "Python", "JavaScript", "Sarcasm"]
@@ -43,24 +44,20 @@ fun_fact: "I debug with print statements and I'm not sorry"
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF9C)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF9C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF9C)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=00FF9C)
-![Go](https://img.shields.io/badge/-Go-000000?style=for-the-badge&logo=go&logoColor=00FF9C)
+
 
 ### 🖥️ Frameworks & Tools
 
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00FF9C)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF9C)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FF9C)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF9C)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF9C)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FF9C)
 
 ### 🗄️ Databases & Cloud
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF9C)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF9C)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00FF9C)
-![Redis](https://img.shields.io/badge/-Redis-000000?style=for-the-badge&logo=redis&logoColor=00FF9C)
+
 
 </div>
 
@@ -136,9 +133,6 @@ fun_fact: "I debug with print statements and I'm not sorry"
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://linkedin.com/in/krupam26)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF9C)](https://twitter.com/krupam26)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00FF9C)](https://yourportfolio.dev)
-[![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF9C)](https://discord.com/users/YOUR_ID)
 [![Mail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:you@example.com)
 
 </div>
