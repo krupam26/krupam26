@@ -93,15 +93,7 @@ fun_fact: "I debug with print statements and I'm not sorry"
 </td>
 <td width="50%">
 
-### 🟢 [Apple_Replica](https://github.com/krupam26/Apple_threejs_webiste)
-```
-> An immersive Apple-inspired product showcase website built with React, Three.js, and React Three Fiber
-```
 
-</td>
-</tr>
-<tr>
-<td width="50%">
 
 
 ### 🟣 [GoViral](https://github.com/kavya-119/GoViral)
