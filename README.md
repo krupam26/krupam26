@@ -1,143 +1,135 @@
 <div align="center">
 
-# 👋 Welcome to My AI Workspace
-
-## Krupa Mehta
-
-### AI Engineer • Creative Developer • Researcher
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Products;AI+%26+ML+Engineer;Full+Stack+Developer;UI%2FUX+Designer;Always+Learning+Something+New+🚀" />
-
-<br>
-
-<a href="https://github.com/krupam26">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://krupa-sketchbook.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF7A00?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=krupam26&label=Profile%20Views&color=FF7A00&style=flat-square"/>
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=940&lines=%3E+whoami;INITIALIZING_DEV_PROFILE...;ACCESS_GRANTED+%E2%9C%93;Krupa+Mehta+%7C+MACHINE_LEARNING" alt="Typing SVG" />
 
 </div>
 
----
-## 💻 Terminal
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Krupa%20Mehta&fontSize=60&fontColor=00FF9C&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-```console
-krupa@github:~$ whoami
-Krupa Mehta
 
-krupa@github:~$ role
-AI & ML Engineer
+<div align="center">
 
-krupa@github:~$ currently-building
-
-• LawL
-• AI Capacity Intelligence
-• ET Wealth Navigator
-• Krupa Sketchbook
-
-krupa@github:~$ skills
-
-Python
-React
-FastAPI
-AI Agents
-LLMs
-Figma
-
-krupa@github:~$ status
-
-🟢 Online
-Always building.
+```ansi
+[SYSTEM]: Booting profile.exe...
+[SYSTEM]: Loading modules [ Code | Design | Chaos ]
+[SYSTEM]: Connection secure. Welcome, operator.
 ```
 
-## 🚀 Now Building
-
-🧠 LawL
-AI-powered legal research platform
-
-📊 AI Capacity Intelligence
-Engineering analytics powered by AI
-
-💰 ET Wealth Navigator
-AI financial assistant
-
-🎨 Krupa Sketchbook
-Interactive digital portfolio
-
-# 📊 GitHub Dashboard
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=krupam26&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupam26&layout=compact&theme=transparent&hide_border=true"/>
-
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=krupam26&theme=transparent&hide_border=true"/>
-
-</div>
-
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,java,react,tailwind,fastapi,git,github,mysql,figma,vscode&perline=6"/>
-
-</div>
-
-
-## 🚀 Featured Projects
-
-### ⚖️ LawL
-> AI-powered legal research platform.
 
 ---
 
-### 📊 AI Capacity Intelligence
-> Multi-agent engineering analytics.
+## `> root@dev:~$ cat about_me.txt`
+
+```yaml
+name: "Krupa Mehta"
+role: "AIML Developer / Reverse Engineer of Ideas"
+location: "The Matrix, Sector 7"
+current_focus: "Building things that shouldn't be possible"
+languages: ["English", "Python", "JavaScript", "Sarcasm"]
+pronouns: "they/them"
+fun_fact: "I debug with print statements and I'm not sorry"
+```
+
+
+
+## `> root@dev:~$ ls -la skills/`
+
+<div align="center">
+
+### ⚡ Languages & Core
+
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF9C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF9C)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF9C)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF9C)
+
+
+### 🖥️ Frameworks & Tools
+
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00FF9C)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF9C)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FF9C)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FF9C)
+
+### 🗄️ Databases & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF9C)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF9C)
+
+
+</div>
 
 ---
 
-### 💰 ET Wealth Navigator
+## `> root@dev:~$ ./run_stats.sh`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krupam26&theme=dark&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="streak stats"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krupam26&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff" width="95%"/>
+
+</div>
+
+---
+
+## `> root@dev:~$ cat featured_projects.log`
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🔴 [ET Wealth Navigator](https://github.com/krupam26/ET_Gen_AI)
+```
 > AI financial assistant.
 
+```
+
+
+</td>
+<td width="50%">
+
+
+
+
+### 🟣 [GoViral](https://github.com/kavya-119/GoViral)
+```
+> Go viral on social media platforms
+> Building in process..... 
+
+```
+
+
+</td>
+</tr>
+</table>
+
 ---
 
-### 🎨 Krupa Sketchbook
-> Interactive creative portfolio.
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krupam26&theme=github-dark&hide_border=true"/>
-
-</p>
+## `> root@dev:~$ ping social_links`
 
 <div align="center">
 
-### Thanks for visiting! 👋
-
-*"Build with curiosity. Design with purpose."*
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/krupa-mehta2602)
+[![Mail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:krupamehta2007@gmail.com)
 
 </div>
+
+---
+
+<div align="center">
+
+```ansi
+[SYSTEM]: End of transmission.
+[SYSTEM]: Thank you for visiting. Stay encrypted. 🔒
+```
+
+<img src="https://komarev.com/ghpvc/?username=krupam26&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
