@@ -103,15 +103,6 @@ fun_fact: "I debug with print statements and I'm not sorry"
 <tr>
 <td width="50%">
 
-### 🔵 [Project_Nexus](https://github.com/krupam26/project-nexus)
-```
-> Distributed system for encrypted
-> peer-to-peer file sharing.
-```
-`Go` `gRPC` `Kubernetes`
-
-</td>
-<td width="50%">
 
 ### 🟣 [GoViral](https://github.com/kavya-119/GoViral)
 ```
