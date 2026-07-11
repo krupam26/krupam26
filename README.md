@@ -1,452 +1,264 @@
-<!-- ========================================================= -->
-<!--                       KRUPA OS v1.0                        -->
-<!-- ========================================================= -->
+<!-- ============================== -->
+<!--        KRUPA OS v1.0          -->
+<!-- ============================== -->
 
-<div align="center">
+<p align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Krupa Mehta
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=1000&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED;HELLO+WORLD!;I'M+KRUPA+MEHTA;AI+ENGINEER+%7C+FULL+STACK+DEVELOPER;DESIGNER+%7C+CREATIVE+CODER;WELCOME+TO+MY+DIGITAL+REALM" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineering+Student;Creative+Developer;UI%2FUX+Designer;Building+AI-powered+Applications;Welcome+to+KRUPA+OS+v1.0" />
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=krupam26&label=Visitors&color=orange&style=for-the-badge)
-
-</div>
+</p>
 
 ---
 
-# 🤖 KRUPA OS v1.0
-
-```text
-> boot krupa_os
-
-Initializing...
-
-██████████████████████████████ 100%
-
-Loading AI Engine..................... ✓
-
-Loading Machine Learning Core......... ✓
-
-Loading React Runtime................. ✓
-
-Loading FastAPI Services.............. ✓
-
-Loading UI/UX Module.................. ✓
-
-Loading Research Database............. ✓
-
-Loading Creative Portfolio............ ✓
-
-System Ready.
-
-Welcome back, Krupa 🚀
-```
-
----
-
-# 💻 Terminal
-
-```bash
-krupa@github:~$ neofetch
-
-Name        :: Krupa Mehta
-
-Role        :: AI & ML Engineering Student
-
-Focus       :: Intelligent Software + Design
-
-Learning    :: LLMs • AI Agents • FastAPI
-
-Frontend    :: React • Tailwind CSS
-
-Backend     :: FastAPI
-
-Languages   :: C
-               Python
-               Java
-               JavaScript
-
-Tools       :: Git
-               GitHub
-               VS Code
-               Figma
-
-Interests   :: AI
-               UI/UX
-               Research
-               Open Source
-
-Location    :: Mumbai 🇮🇳
-
-Status      :: Building awesome projects 🚀
-```
-
----
-
-# 👩 About Me
+# <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40"> SYSTEM PROFILE
 
 ```yaml
-Name:
-  Krupa Mehta
-
-Education:
-  AI & Machine Learning Engineering
-
-Currently Working On:
-  - LawL
-  - AI & The Future of Hiring Research
-  - GitHub Profile
-  - Open Source
-
-Currently Learning:
-  - LLMs
-  - AI Agents
-  - RAG
-  - FastAPI
-  - System Design
-
-Hobbies:
-  - Sketching
-  - Bharatnatyam
-  - UI/UX Design
-  - Reading Research Papers
+Username      : krupam26
+Status        : ONLINE
+Role          : AI Engineer
+Location      : Mumbai, India
+Languages     : C, Python, Java, JavaScript
+Focus          : AI • Machine Learning • Web • Design
+Current Mode  : Building The Future
+Mission       : Code. Create. Innovate.
 ```
 
 ---
 
-# 🚀 Tech Stack
+# > whoami
 
-<div align="center">
+```bash
+$ whoami
+
+> Krupa Mehta
+
+AI & Machine Learning Engineer
+Creative Designer
+Open Source Enthusiast
+Hackathon Builder
+Problem Solver
+
+Loading Passion...
+
+███████████████████████████ 100%
+```
+
+---
+
+# SYSTEM STATS
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=krupam26&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krupam26&theme=chartreuse-dark&hide_border=true&background=000000"/>
+
+</p>
+
+---
+
+# TOP LANGUAGES
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupam26&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+
+</p>
+
+---
+
+# TECH STACK
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,python,java,js"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript"/>
+
+</p>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite"/>
+
+</p>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django"/>
+
+</p>
 
 ### AI / ML
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
+</p>
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<p>
 
-### Tools
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop"/>
+</p>
 
-</div>
+### DevOps
 
----
+<p>
 
-# 🌟 Featured Projects
+<img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github,vercel"/>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🎨 **Krupa Sketchbook** | Digital portfolio showcasing artworks | React, Vercel |
-| ⚖️ **LawL** | AI-powered legal research platform | React, Figma |
-| 🤖 **AI & Future of Hiring** | Research on LLMs and recruitment | AI, Research |
-| 💰 **ET Wealth Navigator** | AI financial advisor | React, FastAPI, CrewAI |
+</p>
 
----
+### Design
 
-# 📊 GitHub Analytics
+<p>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=figma,photoshop"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krupam26&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupam26&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+# GITHUB TROPHIES
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krupam26&theme=tokyonight&hide_border=true"/>
+<p align="center">
 
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=krupam26&theme=matrix&column=4&margin-w=15&margin-h=15"/>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krupam26&theme=tokyo-night&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# CONTRIBUTION GRAPH
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=krupam26&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krupam26&theme=react-dark&bg_color=000000&hide_border=true&color=00ff41&line=00ff41&point=ffffff"/>
 
-</div>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# CONTRIBUTION SNAKE
 
-<div align="center">
+<p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://raw.githubusercontent.com/krupam26/krupam26/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# MATRIX TERMINAL
+
+```text
+> Boot Sequence Completed
+
+Loading AI Models...
+█████████████████████████ 100%
+
+Loading Creativity...
+█████████████████████████ 100%
+
+Loading Coffee...
+█████████████████████████ 100%
+
+Loading Bugs...
+█████████████████████████ 100%
+
+Mission Ready.
+```
+
+---
+
+# CURRENT OBJECTIVES
+
+```diff
++ Build AI Applications
++ Learn Advanced Backend
++ Master System Design
++ Win More Hackathons
++ Contribute to Open Source
++ Create Beautiful UI
+```
+
+---
+
+# RANDOM DEV QUOTE
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</p>
+
+---
+
+# VISITOR COUNT
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=krupam26&label=PROFILE+VIEWS&color=00ff41&style=flat"/>
+
+</p>
+
+---
+
+# CONNECT
+
+<p align="center">
+
+<a href="https://linkedin.com/in/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail"/>
 </a>
+
+<a href="https://portfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
+</a>
+
+</p>
+
+---
+
+# SUPPORT
+
+<p align="center">
 
 <a href="https://github.com/krupam26">
-<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://img.shields.io/badge/FOLLOW-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+
 </a>
 
-</div>
+</p>
 
 ---
----
 
-# ⚡ Current Focus
+<p align="center">
 
-```text
-🎯 2026 Goals
-
-[██████████░░░░░░░░░░] 50%  AI Agents
-
-[██████████████░░░░░░] 70%  React Ecosystem
-
-[████████████░░░░░░░░] 60%  FastAPI
-
-[████████░░░░░░░░░░░░] 40%  System Design
-
-[████████████████░░░░] 80%  Open Source
+```
+██████╗ ██╗   ██╗██████╗ ███████╗██████╗
+██╔══██╗██║   ██║██╔══██╗██╔════╝██╔══██╗
+██████╔╝██║   ██║██████╔╝█████╗  ██████╔╝
+██╔═══╝ ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
+██║     ╚██████╔╝██║     ███████╗██║  ██║
+╚═╝      ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
 ```
 
----
+### 「 KEEP BUILDING. KEEP BREAKING. KEEP LEARNING. 」
 
-# 🧠 Currently Exploring
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=footer"/>
 
-```python
-class Krupa:
-
-    def __init__(self):
-        self.name = "Krupa Mehta"
-        self.role = "AI Engineer"
-
-        self.learning = [
-            "LLMs",
-            "AI Agents",
-            "FastAPI",
-            "React",
-            "System Design",
-            "RAG"
-        ]
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Open Source",
-            "UI/UX",
-            "Research",
-            "Creative Coding"
-        ]
-
-me = Krupa()
-```
-
----
-
-# 📂 Project Dashboard
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🎨 Krupa Sketchbook
-
-Creative Portfolio
-
-- React
-- Tailwind
-- Vercel
-
-🔗 Live Demo
-
-</td>
-
-<td width="50%">
-
-### ⚖️ LawL
-
-AI Legal Research
-
-- React
-- AI Search
-- Figma
-
-🚧 Building
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 AI Hiring Research
-
-Research Paper
-
-- LLM
-- Recruitment AI
-- NLP
-
-📄 Ongoing
-
-</td>
-
-<td width="50%">
-
-### 💰 ET Wealth Navigator
-
-AI Financial Advisor
-
-- CrewAI
-- FastAPI
-- React
-
-🏆 Hackathon Project
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📊 Weekly Coding Activity
-
-```text
-Monday      ████████████
-
-Tuesday     █████████████████
-
-Wednesday   ████████
-
-Thursday    ██████████████
-
-Friday      ███████████████████
-
-Saturday    ███████████████
-
-Sunday      ███████
-```
-
----
-
-# 🚀 Developer Toolbox
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,figma,postman,vercel,npm"/>
-
-</div>
-
----
-
-# 🏅 Certifications
-
-- ✅ CCNA
-- 🎓 AI & ML Engineering
-- 🚀 Hackathon Participant
-- 📄 AI Research Author
-
----
-
-# 💡 Fun Facts
-
-```text
-☕ Converts coffee into code
-
-🎨 Loves sketching
-
-💃 Bharatnatyam Dancer
-
-🧠 Research Enthusiast
-
-🌍 Always learning something new
-```
-
----
-
-# 📬 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/krupam26">
-<img src="https://img.shields.io/badge/GitHub-orange?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ KRUPA OS STATUS
-
-```text
-> System Status
-
-AI Engine....................... ONLINE
-
-React Runtime................... ONLINE
-
-FastAPI Core.................... ONLINE
-
-Research Module................. ONLINE
-
-Creative Engine................. ONLINE
-
-Open Source..................... ACTIVE
-
-All Systems Operational 🚀
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=120&section=footer"/>
-
-</div>
-
-
-<div align="center">
-
-### ⭐ Thanks for visiting KRUPA OS ⭐
-
-*"Building intelligent software that blends AI, creativity, and user experience."*
-
-</div>
+</p>
