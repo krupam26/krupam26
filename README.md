@@ -64,4 +64,41 @@ Status
 
 🟢 Online
 ```
-<img src="https://user-images.githubusercontent.com/74038190/212897594-22e2c3e9-81c0-4b75-bf84-9d4a1e9b9f2b.gif">
+---
+
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=krupam26&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupam26&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=krupam26&theme=transparent&hide_border=true"/>
+
+</div>
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,java,react,tailwind,fastapi,git,github,mysql,figma,vscode&perline=6"/>
+
+</div>
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 LawL | AI-powered Legal Research Platform |
+| 📊 AI Capacity Intelligence | Multi-Agent Engineering Dashboard |
+| 💰 ET Wealth Navigator | AI Financial Assistant |
+| 🎨 Krupa Sketchbook | Creative Portfolio |
