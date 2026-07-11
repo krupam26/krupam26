@@ -29,7 +29,7 @@
 
 </div>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krupam26&label=Profile%20Views&color=ff7a00&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Full+Stack+Developer;UI%2FUX+Designer;Building+AI-Powered+Products;Always+Learning+New+Things+🚀" />
 </p>
 
 ## 🚀 About Me
