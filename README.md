@@ -4,7 +4,9 @@
 
 ### AI & ML Engineer • Designer • Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Full+Stack+Developer;UI%2FUX+Designer;Building+AI-Powered+Products;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Full+Stack+Developer;UI%2FUX+Designer;Building+AI-Powered+Products;Always+Learning+New+Things+🚀" />
+</p>
 
 </div>
 
@@ -28,9 +30,7 @@
 </a>
 
 </div>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Full+Stack+Developer;UI%2FUX+Designer;Building+AI-Powered+Products;Always+Learning+New+Things+🚀" />
-</p>
+
 
 ## 🚀 About Me
 
