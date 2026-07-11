@@ -64,7 +64,20 @@ Status
 
 🟢 Online
 ```
----
+
+## 🚀 Now Building
+
+🧠 LawL
+AI-powered legal research platform
+
+📊 AI Capacity Intelligence
+Engineering analytics powered by AI
+
+💰 ET Wealth Navigator
+AI financial assistant
+
+🎨 Krupa Sketchbook
+Interactive digital portfolio
 
 # 📊 GitHub Dashboard
 
@@ -83,7 +96,7 @@ Status
 <img src="https://streak-stats.demolab.com?user=krupam26&theme=transparent&hide_border=true"/>
 
 </div>
----
+
 
 # ⚡ Tech Stack
 
@@ -92,7 +105,7 @@ Status
 <img src="https://skillicons.dev/icons?i=python,c,java,react,tailwind,fastapi,git,github,mysql,figma,vscode&perline=6"/>
 
 </div>
----
+
 
 # 🚀 Featured Projects
 
@@ -102,3 +115,11 @@ Status
 | 📊 AI Capacity Intelligence | Multi-Agent Engineering Dashboard |
 | 💰 ET Wealth Navigator | AI Financial Assistant |
 | 🎨 Krupa Sketchbook | Creative Portfolio |
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krupam26&theme=github-dark&hide_border=true"/>
+
+</p>
