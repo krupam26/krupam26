@@ -33,36 +33,35 @@
 </div>
 
 ---
-# 💻 Terminal
+## 💻 Terminal
 
-```text
+```console
 krupa@github:~$ whoami
+Krupa Mehta
 
-Name        : Krupa Mehta
-Role        : AI & ML Engineer
-Location    : Mumbai, India
+krupa@github:~$ role
+AI & ML Engineer
 
-Education   : B.Tech in Artificial Intelligence & Machine Learning
+krupa@github:~$ currently-building
 
-Currently Building
+• LawL
+• AI Capacity Intelligence
+• ET Wealth Navigator
+• Krupa Sketchbook
 
-→ LawL
-→ AI Capacity Intelligence Platform
-→ AI & Future of Hiring Research
-→ Krupa Sketchbook
+krupa@github:~$ skills
 
-Interests
+Python
+React
+FastAPI
+AI Agents
+LLMs
+Figma
 
-✓ Artificial Intelligence
-✓ LLMs
-✓ AI Agents
-✓ Data Analytics
-✓ UI/UX
-✓ Full Stack Development
-
-Status
+krupa@github:~$ status
 
 🟢 Online
+Always building.
 ```
 
 ## 🚀 Now Building
@@ -107,14 +106,25 @@ Interactive digital portfolio
 </div>
 
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🤖 LawL | AI-powered Legal Research Platform |
-| 📊 AI Capacity Intelligence | Multi-Agent Engineering Dashboard |
-| 💰 ET Wealth Navigator | AI Financial Assistant |
-| 🎨 Krupa Sketchbook | Creative Portfolio |
+### ⚖️ LawL
+> AI-powered legal research platform.
+
+---
+
+### 📊 AI Capacity Intelligence
+> Multi-agent engineering analytics.
+
+---
+
+### 💰 ET Wealth Navigator
+> AI financial assistant.
+
+---
+
+### 🎨 Krupa Sketchbook
+> Interactive creative portfolio.
 
 ## 📈 Contribution Activity
 
@@ -123,3 +133,11 @@ Interactive digital portfolio
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=krupam26&theme=github-dark&hide_border=true"/>
 
 </p>
+
+<div align="center">
+
+### Thanks for visiting! 👋
+
+*"Build with curiosity. Design with purpose."*
+
+</div>
