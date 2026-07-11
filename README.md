@@ -31,7 +31,7 @@ pronouns: "they/them"
 fun_fact: "I debug with print statements and I'm not sorry"
 ```
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=krupam26&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
 
 ## `> root@dev:~$ ls -la skills/`
 
@@ -70,11 +70,11 @@ fun_fact: "I debug with print statements and I'm not sorry"
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krupam26&theme=dark&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="streak stats"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krupam26&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff" width="95%"/>
 
 </div>
 
@@ -86,7 +86,7 @@ fun_fact: "I debug with print statements and I'm not sorry"
 <tr>
 <td width="50%">
 
-### 🔴 [Project_Alpha](https://github.com/YOUR_USERNAME/project-alpha)
+### 🔴 [Project_Alpha](https://github.com/krupam26/project-alpha)
 ```
 > A cyberpunk-themed dashboard built
 > with real-time data streaming.
@@ -96,7 +96,7 @@ fun_fact: "I debug with print statements and I'm not sorry"
 </td>
 <td width="50%">
 
-### 🟢 [Project_Nova](https://github.com/YOUR_USERNAME/project-nova)
+### 🟢 [Project_Nova](https://github.com/krupam26/project-nova)
 ```
 > An AI-powered automation engine
 > for pipeline orchestration.
@@ -108,7 +108,7 @@ fun_fact: "I debug with print statements and I'm not sorry"
 <tr>
 <td width="50%">
 
-### 🔵 [Project_Nexus](https://github.com/YOUR_USERNAME/project-nexus)
+### 🔵 [Project_Nexus](https://github.com/krupam26/project-nexus)
 ```
 > Distributed system for encrypted
 > peer-to-peer file sharing.
@@ -118,7 +118,7 @@ fun_fact: "I debug with print statements and I'm not sorry"
 </td>
 <td width="50%">
 
-### 🟣 [Project_Ghost](https://github.com/YOUR_USERNAME/project-ghost)
+### 🟣 [Project_Ghost](https://github.com/krupam26/project-ghost)
 ```
 > Terminal-based OSINT toolkit for
 > security researchers.
@@ -135,8 +135,8 @@ fun_fact: "I debug with print statements and I'm not sorry"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF9C)](https://twitter.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://linkedin.com/in/krupam26)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF9C)](https://twitter.com/krupam26)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00FF9C)](https://yourportfolio.dev)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF9C)](https://discord.com/users/YOUR_ID)
 [![Mail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:you@example.com)
@@ -152,7 +152,7 @@ fun_fact: "I debug with print statements and I'm not sorry"
 [SYSTEM]: Thank you for visiting. Stay encrypted. 🔒
 ```
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=krupam26&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS" />
 
 </div>
 
