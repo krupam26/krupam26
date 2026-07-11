@@ -32,7 +32,7 @@ pronouns: "they/them"
 fun_fact: "I debug with print statements and I'm not sorry"
 ```
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=krupam26&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
+
 
 ## `> root@dev:~$ ls -la skills/`
 
