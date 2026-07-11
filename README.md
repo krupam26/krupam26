@@ -42,8 +42,7 @@ fun_fact: "I debug with print statements and I'm not sorry"
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF9C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF9C)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF9C)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF9C)
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF9C)
 
 
 ### 🖥️ Frameworks & Tools
