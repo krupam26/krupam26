@@ -25,11 +25,9 @@
 ```yaml
 name: "Krupa Mehta"
 role: "AIML Developer / Reverse Engineer of Ideas"
-location: "The Matrix, Sector 7"
 current_focus: "Building things that shouldn't be possible"
 languages: ["English", "Python", "JavaScript", "Sarcasm"]
-pronouns: "they/them"
-fun_fact: "I debug with print statements and I'm not sorry"
+
 ```
 
 
@@ -60,21 +58,7 @@ fun_fact: "I debug with print statements and I'm not sorry"
 
 </div>
 
----
 
-## `> root@dev:~$ ./run_stats.sh`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krupam26&theme=dark&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="streak stats"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krupam26&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff" width="95%"/>
-
-</div>
-
----
 
 ## `> root@dev:~$ cat featured_projects.log`
 
